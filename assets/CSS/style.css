@@ -11,6 +11,8 @@ body {
     background-image: url(../img/hd.webp);
     background-repeat: repeat-y;
     background-position: center;
+    background-size: cover;
+    height: 100 vh;
 }
 
 .header {
@@ -20,6 +22,7 @@ body {
     background-image: url("../img/fondo.webp");
     background-size: cover;
     background-position: center;
+    height: 100 vh;
 }
 
 .header h1 {
