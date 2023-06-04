@@ -17,23 +17,14 @@ body {
     background-repeat: repeat-y;
     background-position: center;
     background-size: cover;
-    height: 100 vh;
-    top: 0;
-    left: 0;
+    height: 200%;
     width: 100%;
-    object-fit: cover;
 }
 
 .header {
-    height: 2em;
-    padding: 3em;
-    font-size: 2em;
     background-image: url("../img/fondo.webp");
     background-size: cover;
     background-position: center;
-    height: 100 vh;
-    top: 0;
-    left: 0;
     width: 100%;
     object-fit: cover; 
 }
